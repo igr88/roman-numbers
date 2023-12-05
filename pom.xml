@@ -3,12 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>me.dev.interview</groupId>
-  <artifactId>RomanNumbers</artifactId>
+  <artifactId>roman-numbers</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>RomanNumbers</name>
-  <url>http://maven.apache.org</url>
+  <name>Roman Numbers</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
